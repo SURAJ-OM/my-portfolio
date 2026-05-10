@@ -1,5 +1,5 @@
 # portfolio
-# Hi, I'm Suraj Kumar Yadav 👋
+# Hi, I'm Suraj Kumar Yadav 
 
 ### IT Support | System Administration | Web Development
 
